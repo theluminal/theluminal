@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Altime360
+- 👋 Hi, I’m @theluminal
 - 👀 I’m interested in GameDev
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Altime360/Altime360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
